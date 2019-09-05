@@ -5,12 +5,12 @@ html{
 	float:right;
 	padding-right:100px;
 }
+h4{
+	padding-left:100px;
+}
 body{
 	font-family:"Avenir Next";
 	background-color:white;
-}
-h4{
-	padding-left:100px;
 }
 p{
 	font-size:12px;
